@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.2)
+  - SDWebImage (5.13.2):
+    - SDWebImage/Core (= 5.13.2)
+  - SDWebImage/Core (5.13.2)
+  - SimpleTwoWayBinding (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 5.0)
+  - SimpleTwoWayBinding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SimpleTwoWayBinding
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  SDWebImage: 72f86271a6f3139cc7e4a89220946489d4b9a866
+  SimpleTwoWayBinding: 728d751c25d9909ddf2ee76711ab4a8a71e00c69
+
+PODFILE CHECKSUM: b8758891ca1d50a0152c7aba5db3f2383341be6b
+
+COCOAPODS: 1.11.3
